@@ -5,7 +5,9 @@ It is basically a copy of [this existing plugin](https://ankiweb.net/shared/info
 
 Installation
 ------------
-This plugin is compatible with Anki 2.1. I didn't test it in 2.0.
+This plugin is compatible with Anki 2.1. I didn't test it in 2.0 ([Issue #2](https://github.com/trimitri/edit_latex_toolchain/issues/2)).
+
+### Manual Installation
 To use the plugin, first find your Anki 2.1 plugin folder.
 In Arch Linux, it resides here:
 
@@ -19,6 +21,10 @@ Your directory structure would look as follows:
 
 Please let me know if it doesn't work or if you have tried it under Windows or
 Mac and can give info.
+
+### AnkiWeb installation
+You can also get the Plugin straigt from AnkiWeb to your client:
+https://ankiweb.net/shared/info/933614828
 
 Usage
 -----
