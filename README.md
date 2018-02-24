@@ -3,6 +3,8 @@ edit\_latex\_toolchain
 This is an Anki 2.1 Plugin to customize the LaTeX build process.
 It is basically a copy of [this existing plugin](https://ankiweb.net/shared/info/937148547) which wasn't compatible with Anki 2.1 at the time.
 
+The Plugin is also uploaded to [AnkiWeb](https://ankiweb.net/shared/info/933614828).
+
 Installation
 ------------
 This plugin is compatible with Anki 2.1. I didn't test it in 2.0 ([Issue #2](https://github.com/trimitri/edit_latex_toolchain/issues/2)).
